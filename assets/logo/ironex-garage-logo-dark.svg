@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" fill="none">
+  <!-- IRONEX Wordmark - Dark Version (for light backgrounds) -->
+  <defs>
+    <linearGradient id="goldAccentDark" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C9A96E"/>
+      <stop offset="100%" stop-color="#A68B4B"/>
+    </linearGradient>
+  </defs>
+  <!-- Hexagonal Icon -->
+  <g transform="translate(0, 8)">
+    <path d="M32 4L56 18V46L32 60L8 46V18L32 4Z" stroke="url(#goldAccentDark)" stroke-width="2.5" fill="none"/>
+    <path d="M32 14L48 23V41L32 50L16 41V23L32 14Z" stroke="url(#goldAccentDark)" stroke-width="1.2" fill="none" opacity="0.5"/>
+    <!-- Wrench/Precision Cross -->
+    <line x1="24" y1="24" x2="40" y2="40" stroke="#0A0A0A" stroke-width="2.5" stroke-linecap="round"/>
+    <line x1="40" y1="24" x2="24" y2="40" stroke="#0A0A0A" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="32" cy="32" r="4" stroke="#C9A96E" stroke-width="1.5" fill="none"/>
+  </g>
+  <!-- IRONEX Text -->
+  <text x="72" y="42" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="700" font-size="36" letter-spacing="6" fill="#0A0A0A">IRONEX</text>
+  <!-- Garage Text -->
+  <text x="74" y="62" font-family="'Inter', 'Helvetica Neue', Arial, sans-serif" font-weight="300" font-size="14" letter-spacing="8" fill="#6B6B72">GARAGE</text>
+  <!-- Accent Line -->
+  <rect x="72" y="47" width="60" height="1.5" fill="url(#goldAccentDark)" rx="0.75"/>
+</svg>
